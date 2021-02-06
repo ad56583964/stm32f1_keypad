@@ -1,0 +1,7 @@
+# Specify filepatterns you want git to ignore.
+
+#Debug 
+/Debug/*
+
+#eclipse setting
+/.settings/*
