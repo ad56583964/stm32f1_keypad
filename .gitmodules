@@ -1,0 +1,3 @@
+[submodule "ad_CommonLib.git"]
+	path = ad_CommonLib
+	url = https://github.com/ad56583964/ad_CommonLib.git
